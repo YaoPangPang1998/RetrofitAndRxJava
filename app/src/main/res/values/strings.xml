@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RxjavaAndRetrofit</string>
+    <string name="next">下一个</string>
+    <string name="bach">换一批</string>
+</resources>
